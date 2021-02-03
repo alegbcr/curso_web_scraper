@@ -1,0 +1,4 @@
+links = //div[@class="col-7 pl-0 pr-3"]/a/@href
+titulo = //div[@class="mb-auto"]/text-fill/a/text()
+resume = //div[@class="lead"]/p/text()
+cuerpo = //div[@class="html-content"]/p[not(@class)]/text()
